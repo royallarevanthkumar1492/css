@@ -1,0 +1,91 @@
+
+/* .header {
+    position: relative;
+    height: 60vh;
+    /* border: 2px solid green; */
+    /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/header-image.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */ 
+
+.navbar {
+    /* border: 2px white solid; */
+    padding: 1rem;
+}
+
+
+/* Specificity is more here */
+
+
+/* .header .logo,
+    .header .navbar a {
+        color: white;
+    } */
+
+/* .navbar .logo {
+    float: left;
+} */
+
+/* .navbar .nav-items {
+    float: right;
+    margin-top: 1rem;
+}
+
+.navbar .nav-item {
+    display: inline-block;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+.navbar a:link,
+.navbar a:visited {
+    color: #f4f4f4;
+}
+
+.navbar a {
+    padding-bottom: 0.3rem;
+}
+
+.navbar a:hover {
+    border-bottom: 1px solid #fff;
+}
+.navbar::after {
+    content: "";
+    display: block;
+    clear: both;
+}  */
+
+
+
+
+
+
+
+
+/* -------------------------------------------------------------------------------------------- */
+.nav-item{color: aliceblue;
+    text-align: center;
+    padding:30px ;
+  
+}
+
+.nav-items{
+  
+    margin-right:500px ;
+}
+.navbar .logo {
+    float: left;
+    margin-left: 300px;
+}.lg-heading1{text-align: center;
+margin:200px 0px 0px 0px;
+}
+.header{ background-image: url(img/header-image.jpg);
+height: 70vh;
+background-size: cover;
+background-repeat: no-repeat; color: aliceblue;
+font-size: 21px;
+background-position: center;
+}
+.btn{ border-radius:10px ;
+ba}
